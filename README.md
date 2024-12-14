@@ -46,14 +46,6 @@ const expertise = {
 }
 ```
 
-## 🔥 Current Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=true)](https://github.com/YourGitHubUsername)
-
-</div>
-
 ## 🚀 Top Projects
 
 <div align="center">
