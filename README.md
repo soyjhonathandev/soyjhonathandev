@@ -30,7 +30,7 @@ const jhonathan = {
     },
     architecture: ['MVC', 'Microservices', 'Event-Driven', 'Serverless'],
     currentFocus: 'Building scalable full-stack applications with TypeScript and Cloud Infrastructure',
-    funFact: 'I run everything on Arch Linux! 🐧'
+    funFact: 'Currently a Mac user but my hart alwais will belong to Arch Linux :('
 };
 ```
 
@@ -43,7 +43,6 @@ const expertise = {
     devOps:             ██████████████████░░░ 85%,
     cloudServices:      ██████████████████░░░ 85%,
     systemDesign:       ███████████████░░░░░░ 75%,
-    problemSolving:     ████████████████████░ 93%
 }
 ```
 
@@ -63,7 +62,7 @@ const expertise = {
 |---------|------------|---------|
 | Payment Platform | React, Node.js, MongoDB | 3,000+ Monthly Users |
 | VPN Solution | TypeScript, Docker, WireGuard | 99.9% Uptime |
-| E-commerce System | Next.js, NestJS, PostgreSQL | 50K+ Transactions |
+| E-commerce System | Next.js, NestJS, PostgreSQL | 1000 Transactions |
 
 </div>
 
@@ -73,7 +72,7 @@ const expertise = {
 def professional_journey():
     return {
         "current": "Freelance Full Stack Developer",
-        "clients": ["ISUZU", "CHEVRON", "TRANSPORTEX", "SAN MARTIN FUTBOL CLUB"],
+        "clients": ["ISUZU", "CHEVRON", "TRANSPORTEX", "TU PAGO CANADA", "ENERGYSOLARVELA"],
         "impact": "Built solutions processing millions in transactions",
         "specialization": ["Payment Systems", "Cloud Infrastructure", "Business Tools"]
     }
@@ -95,7 +94,6 @@ def professional_journey():
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -119,12 +117,3 @@ def professional_journey():
 - 📧 Email: [hi@soyjhonathan.com](mailto:hi@soyjhonathan.com)
 - 📍 Location: Valencia, Venezuela
 - 💼 Open for collaboration on innovative projects!
-
-<div align="center">
-
----
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
-</div>
