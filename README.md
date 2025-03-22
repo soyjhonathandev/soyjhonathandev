@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soyjhonathan.com-blue?style=flat-square&logo=google-chrome)](https://soyjhonathan.com)
 [![Email](https://img.shields.io/badge/Email-soyjhonthandev%40gmail.com-red?style=flat-square&logo=gmail)](mailto:soyjhonathandev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jhonathan-saldarriaga-1a9181202/)
 
 </div>
 
