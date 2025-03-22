@@ -3,7 +3,7 @@
 # 👨‍💻 Jhonathan Hartswing Saldarriaga Gallango
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soyjhonathan.com-blue?style=flat-square&logo=google-chrome)](https://soyjhonathan.com)
-[![Email](https://img.shields.io/badge/Email-hi%40soyjhonathan.com-red?style=flat-square&logo=gmail)](mailto:hi@soyjhonathan.com)
+[![Email](https://img.shields.io/badge/Email-soyjhonthandev%40gmail.com-red?style=flat-square&logo=gmail)](mailto:soyjhonathandev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
 
 </div>
@@ -106,6 +106,6 @@ def professional_journey():
 ## 📫 Let's Connect!
 
 - 🌐 Portfolio: [soyjhonathan.com](https://soyjhonathan.com)
-- 📧 Email: [hi@soyjhonathan.com](mailto:hi@soyjhonathan.com)
+- 📧 Email: [soyjhonathandev@gmail.com](mailto:soyjhonathandev@gmail.com)
 - 📍 Location: Valencia, Venezuela
 - 💼 Open for collaboration on innovative projects!
