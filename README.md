@@ -1,20 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Jhonathan Hartswing Saldarriaga Gallango
+# Jhonathan Hartswing Saldarriaga Gallango
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soyjhonathan.com-blue?style=flat-square&logo=google-chrome)](https://soyjhonathan.com)
 [![Email](https://img.shields.io/badge/Email-soyjhonthandev%40gmail.com-red?style=flat-square&logo=gmail)](mailto:soyjhonathandev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jhonathan-saldarriaga-1a9181202/)
 
 </div>
-
-## 🤝 Let's Collaborate!
-
-I'm passionate about collaborating on ambitious and innovative projects! If you're working on something cool and need a dedicated full-stack developer with experience in:
-- 🚀 Scalable applications
-- 💳 Payment systems
-- 🔒 Security solutions
-- ☁️ Cloud infrastructure
 
 **Feel free to reach out! I'm always excited to join forces on impactful projects.**
 
@@ -32,42 +24,6 @@ const jhonathan = {
     currentFocus: 'Building scalable full-stack applications with TypeScript and Cloud Infrastructure',
     funFact: 'Currently a Mac user but my hart alwais will belong to Arch Linux :('
 };
-```
-
-## 🎯 Expertise Level
-
-```javascript
-const expertise = {
-    frontendDevelopment: ████████████████████ 95%,
-    backendDevelopment:  ███████████████████░ 90%,
-    devOps:             ██████████████████░░░ 85%,
-    cloudServices:      ██████████████████░░░ 85%,
-    systemDesign:       ███████████████░░░░░░ 75%,
-}
-```
-
-## 🚀 Top Projects
-
-<div align="center">
-
-| Project | Tech Stack | Metrics |
-|---------|------------|---------|
-| Payment Platform | React, Node.js, MongoDB | 3,000+ Monthly Users |
-| VPN Solution | TypeScript, Docker, WireGuard | 99.9% Uptime |
-| E-commerce System | Next.js, NestJS, PostgreSQL | 1000 Transactions |
-
-</div>
-
-## 💼 Professional Experience
-
-```python
-def professional_journey():
-    return {
-        "current": "Freelance Full Stack Developer",
-        "clients": ["ISUZU", "CHEVRON", "TRANSPORTEX", "TU PAGO CANADA", "ENERGYSOLARVELA"],
-        "impact": "Built solutions processing millions in transactions",
-        "specialization": ["Payment Systems", "Cloud Infrastructure", "Business Tools"]
-    }
 ```
 
 ## 🛠️ Tech Stack
@@ -108,4 +64,4 @@ def professional_journey():
 - 🌐 Portfolio: [soyjhonathan.com](https://soyjhonathan.com)
 - 📧 Email: [soyjhonathandev@gmail.com](mailto:soyjhonathandev@gmail.com)
 - 📍 Location: Valencia, Venezuela
-- 💼 Open for collaboration on innovative projects!
+- 💼 Open for collaboration!
